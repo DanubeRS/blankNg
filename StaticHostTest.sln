@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticHostTest", "StaticHostTest\StaticHostTest.csproj", "{7FE4919F-97B3-41DE-8112-D4474B43A005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticHostTest.Console", "StaticHostTest.Console\StaticHostTest.Console.csproj", "{23CDC8B8-DE05-47BB-A515-FD85EA45F8F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE4919F-97B3-41DE-8112-D4474B43A005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE4919F-97B3-41DE-8112-D4474B43A005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE4919F-97B3-41DE-8112-D4474B43A005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE4919F-97B3-41DE-8112-D4474B43A005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CDC8B8-DE05-47BB-A515-FD85EA45F8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CDC8B8-DE05-47BB-A515-FD85EA45F8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CDC8B8-DE05-47BB-A515-FD85EA45F8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CDC8B8-DE05-47BB-A515-FD85EA45F8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
